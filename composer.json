@@ -1,5 +1,5 @@
 {
-  "name": "jamalo/php-ip-quality-score",
+  "name": "c-delouvencourt/php-ip-quality-score",
   "homepage": "https://www.ipqualityscore.com/",
   "description": "IPQualityScore API for PHP",
   "keywords": [
@@ -12,13 +12,13 @@
   "type": "library",
   "authors": [
     {
-      "name": "Jamal",
-      "email": "ojamal9@hotmail.com"
+      "name": "Clément",
+      "email": "clement@meilleursbiens.com"
     }
   ],
   "require": {
     "php": ">=7.1",
-    "symfony/http-client": "^5.0"
+    "symfony/http-client": "^5|^6|^7"
   },
   "autoload": {
     "psr-4": {
