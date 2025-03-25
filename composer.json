@@ -1,5 +1,6 @@
 {
   "name": "c-delouvencourt/php-ip-quality-score",
+  "version": "2.0.4",
   "homepage": "https://www.ipqualityscore.com/",
   "description": "IPQualityScore API for PHP",
   "keywords": [
